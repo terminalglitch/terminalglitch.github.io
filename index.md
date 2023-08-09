@@ -3,4 +3,4 @@ layout: default
 ---
 
 ## Links
-- [Blog]()
+- [Blog](/blog/)
